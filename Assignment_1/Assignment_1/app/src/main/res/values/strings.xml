@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+
+    <!-- Trip Detail Activity Strings -->
+    <string name="trip_image">Trip Image</string>
+    <string name="destination">Destination Name</string>
+    <string name="date_range">Start Date - End Date</string>
+    <string name="description">Trip Description</string>
+
+    <!-- Default image description -->
+    <string name="default_image_description">Default image placeholder</string>
+
+        <string name="hint_departure_place">Departure Place</string>
+        <string name="hint_destination_place">Destination Place</string>
+        <string name="hint_departure_date">Departure Date</string>
+        <string name="hint_return_date">Return Date</string>
+        <string name="action_next">Next</string>
+    <!-- Other strings -->
+    <!-- Add other strings you might need for your app -->
+</resources>

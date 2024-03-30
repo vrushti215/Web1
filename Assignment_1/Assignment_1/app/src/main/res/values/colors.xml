@@ -1,0 +1,7 @@
+<resources>
+    <color name="background_color">#FFFFFF</color> <!-- Replace with your desired background color -->
+
+    <color name="black">#FF000000</color>
+    <color name="buttonColor">#FF6200EE</color> <!-- Example dark color for button background -->
+    <color name="buttonTextColor">#FFFFFF</color>
+</resources>
